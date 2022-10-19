@@ -1,0 +1,13 @@
+
+@-moz-document url("about:home"), url("about:newtab") {
+  .rich-icon, .default-icon {
+    background-blend-mode: luminosity;
+  }
+
+  .icon-wrapper {
+    background-color: gray !important;
+  }
+
+    .search-wrapper .logo-and-wordmark .logo { filter: grayscale(1); }
+
+}

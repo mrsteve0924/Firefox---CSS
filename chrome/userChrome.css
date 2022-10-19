@@ -1,0 +1,8 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+.tabbrowser-tab .tab-icon-image { filter: grayscale(1); }
+
+#PlacesToolbarItems { filter: grayscale(1); }
+
+.titlebar-spacer{ display: none !important }
+
